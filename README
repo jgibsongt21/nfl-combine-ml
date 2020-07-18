@@ -1,0 +1,32 @@
+Obtaining the Data
+
+Data Source:
+https://www.pro-football-reference.com/draft/2009-combine.htm
+
+Coralling the Data:
+This data was obtained by copy and pasting rows of data into an
+excel file. Data could not be pulled using a script because the
+website uses a dynamic table backing to prevent requests, so I
+needed to copy the data manually. Yes, it was tedious.
+
+Re-running Experiments
+
+Installing Scikit-learn
+1. Open Command Prompt
+2. Run command "pip install scikit-learn"
+Similar instructions can be run to also install numpy, pandas,
+and matplotlib.
+
+After all installations are made, the experiments can be rerun
+by running each line of the Jupyter Notebook file sequantially.
+The attached excel file should be in the same folder as the
+Jupyter notebook file in order to do this. Aside from that,
+all the experiments should work as planned (according to the
+headers in the Jupyter notebook file).
+
+Data Source:
+https://www.pro-football-reference.com/draft/2009-combine.htm
+This data was obtained by copy and pasting rows of data into an
+excel file. Data could not be pulled using a script because the
+website uses a dynamic table backing to prevent requests, so I
+needed to copy the data manually. Yes, it was tedious.
